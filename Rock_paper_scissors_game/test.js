@@ -2,7 +2,7 @@
 
 
 
-
+*/ Commented this out as it was replaced by "rock_paper_scissors_game.js"
 
 
 var userChoice = function (selection) {	
